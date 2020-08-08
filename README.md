@@ -11,7 +11,7 @@ An interactive web application chatbot to interact with the users, who visiting 
 You need to create an Dialogflow agent, before you get start with coding and play with it to understand the process. Go the link to create an Dialogflow agent https://cloud.google.com/dialogflow/docs/quick/build-agent
 ```
 
-Git clone https://github.com/jeyk333/React-Chatbot.git
+Git clone https://github.com/laksh9950/Dialogflow-website-integration.git
 cd React-Chatbot
 npm install
 npm start - (It will start the local server for nodejs. To connect the local server with dialogflow. You need to create an tunnel. I used ngrok to as an tunnel to connect backend with dialogflow)
